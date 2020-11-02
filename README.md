@@ -2,7 +2,7 @@
 DuckieTown RH4 exercise19
 
 
-# Instructions to reproduce results
+## Instructions to reproduce results
 
 ### 1. Clone this repository and go to its directory
 ```bash
