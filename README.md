@@ -1,6 +1,4 @@
-# exercise19
-DuckieTown RH4 exercise19
-
+# Duckietown RH4 exercise19
 
 ## Instructions to reproduce results
 
